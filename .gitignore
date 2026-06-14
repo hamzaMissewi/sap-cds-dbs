@@ -140,3 +140,7 @@ dist
 
 # cds temp folders
 **/_out
+
+**/*copy*
+**/*back*
+**/*ignore*

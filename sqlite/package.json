@@ -23,7 +23,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "test": "cds-test"
+    "test": "npx cds-test"
   },
   "dependencies": {
     "@cap-js/db-service": "^3.0.0"

@@ -21,7 +21,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "test": "cds-test"
+    "test": "npx cds-test"
   },
   "peerDependencies": {
     "@sap/cds": "^10",
